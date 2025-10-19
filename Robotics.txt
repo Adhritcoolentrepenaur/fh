@@ -1,0 +1,4 @@
+Robots have three different parts:-
+1)  Sensors (To see)
+2) Motors
+3) Computerized Brain
